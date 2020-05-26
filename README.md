@@ -70,6 +70,6 @@ The new features are defined as follows:
 
 ## REPOSITORY DETAILS
 Access -
-1. [Report - Details of Approach and Results]()
-2. [Data]()
-3. [Code]()
+1. [Report - Details of Approach and Results](https://github.com/palakh/Strategizing-Customer-Retention-Techniques/blob/master/Report%20-%20Details%20of%20Approach%20and%20results.pdf)
+2. [Data](https://github.com/palakh/Strategizing-Customer-Retention-Techniques/blob/master/data/Online%20Retail.xlsx)
+3. [Code](https://github.com/palakh/Strategizing-Customer-Retention-Techniques/tree/master/code)
