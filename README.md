@@ -9,7 +9,7 @@ The best customer retention tactics enable the seller to create lasting relation
 For every business, to start investing in a unique and different strategy is time-consuming and demands a high amount of resources. So, understanding why CLV is crucial for the survival and growth of the business is really important. 
 
 ## PROBLEM STATEMENT
-The task at hand is to improvize customer retention strategies using:
+The task at hand is to improve customer retention strategies using:
 1. Customer Lifetime Value - Understand the approximate duration to recoup the Customer Acquisition Cost (CAC)  and also make a decision if the investment will follow through or not 
 2. Customer Segmentation - Which segments to target to maximise profitability?
 
